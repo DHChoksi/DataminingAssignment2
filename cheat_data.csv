@@ -1,0 +1,16 @@
+Refund,Marital Status,Taxable Income,Cheat
+Yes,Single,125k,No
+No,Married,100k,No
+No,Single,70k,No
+Yes,Married,120k,No
+No,Divorced,95k,Yes
+No,Married,60k,No
+Yes,Divorced,220k,No
+No,Single,85k,Yes
+No,Married,75k,No
+No,Single,90k,Yes
+No,Single,133k,No
+Yes,Single,88k,Yes
+No,Married,95k,No
+Yes,Divorced,102k,Yes
+No,Married,140k,No
